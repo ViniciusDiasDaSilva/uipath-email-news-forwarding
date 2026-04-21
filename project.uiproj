@@ -1,0 +1,6 @@
+{
+  "Name": "Redirect_YahooNews_Performer",
+  "ProjectType": "Process",
+  "Description": "Este processo redireciona para emails baseado em temas de noticias obtidas no site yahoo news.\r\nThis process redirects to emails based on news topics obtained from the Yahoo News website",
+  "MainFile": "Main.xaml"
+}
